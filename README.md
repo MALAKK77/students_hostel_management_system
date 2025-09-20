@@ -8,7 +8,7 @@ The project allows hostel administrators to:
 
   - Reserve a bed for a student.
 
-  --Update hostel capacity when a student books a bed.
+  - Update hostel capacity when a student books a bed.
 
   - Display messages when beds are not available.
 
