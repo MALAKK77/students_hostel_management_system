@@ -1,4 +1,4 @@
-Students Hostel Management System (C++ & MySQL)
+🏨Students Hostel Management System (C++ & MySQL)
 Project Overview:
 
 This is a Hostel Management System built using C++ and MySQL.
